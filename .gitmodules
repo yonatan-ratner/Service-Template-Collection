@@ -1,0 +1,12 @@
+[submodule "node-service-template"]
+	path = node-service-template
+	url = https://github.com/yonatan-ratner/node-service-template.git
+[submodule "go-service-template"]
+	path = go-service-template
+	url = https://github.com/yonatan-ratner/go-service-template.git
+[submodule "laravel-service-template"]
+	path = laravel-service-template
+	url = https://github.com/yonatan-ratner/laravel-service-template.git
+[submodule "CMake-vcpkg-template"]
+	path = CMake-vcpkg-template
+	url = https://github.com/yonatan-ratner/CMake-vcpkg-template.git
