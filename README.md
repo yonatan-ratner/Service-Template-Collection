@@ -2,7 +2,7 @@
 This repository is a hub for all my service templates, the idea is to be able to quickly and efficiently setup new microservies or monoliths with only one dependancy - Docker.
 
 ## Complete
-These may be lacking in some way I am not familiar with, but barring the unknown these repositories lgtm.
+These may be lacking in some way, but I consider these ready-to-go, keep in mind that further configuration is likely required depending on your use-case.
 - [Laravel + Php-fpm + nginx](https://github.com/yonatan-ratner/laravel-service-template)
 - [C++](https://github.com/yonatan-ratner/CMake-vcpkg-template)
 
@@ -24,4 +24,5 @@ These are just languages and frameworks that either pique my interest or are ext
 - Kotlin
 - Rust
 - C
-- C++
+- Cobol
+- Bend
